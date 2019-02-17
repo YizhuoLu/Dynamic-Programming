@@ -8,3 +8,4 @@ decoded.
 3. MaxProductOfRope: Given a rope of integer-length n, find a way to get the max product of sub-ropes after m cuts.
 4. JumpGame: Tell if you can jump to the last index in a jump game.
 5. DictionaryProblem: Tell if the string can be composed by concatenating the words from the dictionary.
+6. MinJump: Find the minimum steps that you need to jump to the last index.

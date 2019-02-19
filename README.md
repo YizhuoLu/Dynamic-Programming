@@ -10,3 +10,4 @@ decoded.
 5. DictionaryProblem: Tell if the string can be composed by concatenating the words from the dictionary.
 6. MinJump: Find the minimum steps that you need to jump to the last index.
 7. LargestSubarraySum: Given an unsorted integer array, find the sub-array that has the greatest sum and return it.
+8. EditDistancee: Given two strings of alphanumeric characters, determine the minimum number of replace, delete, and insert operation needed to transform one string into another.

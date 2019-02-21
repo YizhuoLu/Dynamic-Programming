@@ -11,3 +11,5 @@ decoded.
 6. MinJump: Find the minimum steps that you need to jump to the last index.
 7. LargestSubarraySum: Given an unsorted integer array, find the sub-array that has the greatest sum and return it.
 8. EditDistancee: Given two strings of alphanumeric characters, determine the minimum number of replace, delete, and insert operation needed to transform one string into another.
+9. LargestSquareOf1InMatrix: Find the length of the largest square of 1's in a given binary matrix.
+10. LongestConsecutiveOnes: Find the length of the longest consecutive one's in a given array (only contains 0 or 1).

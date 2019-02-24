@@ -15,3 +15,4 @@ decoded.
 10. LongestConsecutiveOnes: Find the length of the longest consecutive one's in a given array (only contains 0 or 1).
 11. LargestCrossWithAll1s: find the largest cross with the same arm lengths and two arms join at the central point of each other in the given matrix.
 12. LargestXInMatrix: Given a Matrix that contains only 0 and 1. Find and return arm length of the largest 'X' of '1's.
+13. LargestSubsquare: Given a matrix where every element is either '0' or '1', find the largest sub-square surrounded by '1'.
